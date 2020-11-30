@@ -251,13 +251,12 @@ fieldset[disabled] .btn-theme {
 
 .btn-default-bg {
   color: #515769;
-  background: #f3f4f5;
+  background: #904c77;
   border-color: transparent;
   border-width: 0;
 }
 
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
-  color: #fff;
   background: #904c77;
   border-color: transparent;
 }
